@@ -1,5 +1,5 @@
 - 👋 Hi, I’m saeed
-- 👀 I’m interested in Data Science , ML , Math and also Python
+- 👀 I’m interested in Data Science, ML, Math also everything that relate to computer and programming
 - 🌱 I’m currently learning ML for Data science and English language for IELTS
 
 <!---
