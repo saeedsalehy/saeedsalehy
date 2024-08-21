@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saeed
 - 👀 I’m interested in Data Science , ML , Math and also Python
-- 🌱 I’m currently learning ML and English languages for IELTS
+- 🌱 I’m currently learning ML for Data science and English language for IELTS
 
 <!---
 saeedsalehy/saeedsalehy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
